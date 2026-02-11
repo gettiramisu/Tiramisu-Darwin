@@ -1,0 +1,42 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Country" : {
+
+    },
+    "im on ios" : {
+
+    },
+    "im on ipados" : {
+
+    },
+    "im on macos" : {
+
+    },
+    "im on tvos" : {
+
+    },
+    "im on visionos" : {
+
+    },
+    "im on watchos" : {
+
+    },
+    "Language" : {
+
+    },
+    "Select a country" : {
+
+    },
+    "Select a language" : {
+
+    },
+    "Select a tag" : {
+
+    },
+    "Tag" : {
+
+    }
+  },
+  "version" : "1.0"
+}
